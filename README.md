@@ -1,6 +1,8 @@
 💳 Credit Card Fraud Detection 💰
 ------------------------------------
+![image](https://github.com/pdannana/code-clause-interhsip-_Fraud-Detection/assets/95438767/280879ec-19a9-473d-80d0-29511b12f607)
 
+                          
 
 This project focuses on detecting fraudulent transactions in a credit card dataset using anomaly detection and classification algorithms. The goal is to identify potentially fraudulent activities, enhancing security and reducing financial losses for credit card companies.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -9,6 +11,7 @@ Python: Programming language used for the project.
 Pandas: Data manipulation and analysis library.
 Scikit-learn: Machine learning library for building models.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/pdannana/code-clause-interhsip-_Fraud-Detection/assets/95438767/26dcfd5d-273e-411f-9b52-0cdcccb90a0c)
 
 📊 Methods Used:
 
@@ -21,6 +24,10 @@ Logistic Regression: A linear model for binary classification that estimates pro
 ->Random Forest: An ensemble learning method that constructs a multitude of decision trees during training and outputs the mode of the classes for classification.
 Gradient Boosting: An ensemble technique that builds models sequentially, where each new model corrects errors made by the previous ones.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/pdannana/code-clause-interhsip-_Fraud-Detection/assets/95438767/d69c2fff-5445-48e6-8b78-a038b6cfc239)
+
+
 🚀 How to Run This Project
 Clone the project repository to your local machine.
 Install the required libraries mentioned in the requirements.txt file using pip.
